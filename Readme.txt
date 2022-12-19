@@ -1,4 +1,6 @@
-Author : Emirhan ETLİ Date created: 19/12/2022 This script generates the desired number of random coordinates from within the rectangular area created by the determined
+Author : Emirhan ETLİ;
+Date created: 19/12/2022 
+This script generates the desired number of random coordinates from within the rectangular area created by the determined
 4 coordinates. When the largest and smallest meridian values and the largest and smallest parallel values of the region where random coordinate values will be generated 
 are entered, the smallest parallelogram surrounding the relevant area is found. For example, when finding the largest and smallest coordinate values for a region in the 
 northern and eastern hemispheres: the parallel of the southernmost point of the area is the smallest parallel, the parallel of the northernmost point is the largest 
