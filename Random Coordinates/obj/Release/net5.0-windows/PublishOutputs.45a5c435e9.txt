@@ -1,0 +1,5 @@
+C:\Users\Administrator\source\repos\Random Coordinates\Random Coordinates\bin\publish\Random Coordinates.exe
+C:\Users\Administrator\source\repos\Random Coordinates\Random Coordinates\bin\publish\Random Coordinates.dll
+C:\Users\Administrator\source\repos\Random Coordinates\Random Coordinates\bin\publish\Random Coordinates.deps.json
+C:\Users\Administrator\source\repos\Random Coordinates\Random Coordinates\bin\publish\Random Coordinates.runtimeconfig.json
+C:\Users\Administrator\source\repos\Random Coordinates\Random Coordinates\bin\publish\Random Coordinates.pdb
